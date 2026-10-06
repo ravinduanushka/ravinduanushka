@@ -1,4 +1,4 @@
-# Hi there, I'm Ravindu Anushka Kalupahanage 👋
+#                                        Hi there, I'm Ravindu Anushka Kalupahanage 👋
 
 🎓 **Computer Engineering Undergraduate** at the Faculty of Engineering, University of Ruhuna  
 💻 **Full Stack Web Developer** | 🎨 **UI & UX Designer** | 🤖 **AI & Data Science** | 🔒 **Network & Cyber Security** | 📊 **Data Analysis**
@@ -29,7 +29,7 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+###  GitHub Activity & Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ravinduanushka&show_icons=true&hide_border=true" alt="Ravindu's GitHub stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravinduanushka&layout=compact&hide_border=true" alt="Most Used Languages" height="150" />
