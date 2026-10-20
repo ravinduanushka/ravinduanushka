@@ -94,9 +94,11 @@
 ### 🏆  GitHub Trophies & Stats
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ravinduanushka&theme=dracula&no-frame=false&no-bg=false&margin-w=4&margin-h=4" alt="Ravindu's Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ravinduanushka&theme=dracula&no-frame=false&no-bg=false" alt="Ravindu's Trophies" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravinduanushka&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ###  GitHub Streak
