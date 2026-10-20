@@ -91,6 +91,8 @@
 
 ---
 
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ravinduanushka&theme=dracula&no-frame=false&no-bg=false&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 ###  GitHub Streak
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravinduanushka&theme=dark&hide_border=true" alt="GitHub Streak" />
