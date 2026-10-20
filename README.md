@@ -97,9 +97,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ravinduanushka&theme=dracula&no-frame=false&no-bg=false" alt="Ravindu's Trophies" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravinduanushka&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 ###  GitHub Streak
 <p align="left">
