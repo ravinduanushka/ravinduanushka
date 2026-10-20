@@ -94,7 +94,7 @@
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ravinduanushka&theme=onedark&column=6&row=2&margin-w=15&margin-h=15&no-frame=true" alt="Ravindu's GitHub Trophies" />
+    <img src="https://github-profile-trophy-cv2zixkee-ravindu-anushka-s-projects.vercel.app/?username=ravinduanushka&theme=onedark&column=6&row=2&margin-w=15&margin-h=15&no-frame=true" alt="Ravindu's GitHub Trophies" />
   </a>
 </p>
 
