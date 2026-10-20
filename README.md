@@ -91,6 +91,13 @@
 
 ---
 
+### 🏆  GitHub Trophies & Stats
+
+<p align="center">
+  <img src="./profile/trophy.svg" alt="Ravindu's Trophies" />
+</p>
+
+
 
 
 
